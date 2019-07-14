@@ -1,6 +1,9 @@
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
 import java.util.LinkedList;
+import static org.mockito.Mockito.mock;
+import static org.mockito.Mockito.when;
+
 
 public class HelloWorldTest {
 

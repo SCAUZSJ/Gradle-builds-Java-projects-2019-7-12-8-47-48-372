@@ -8,7 +8,13 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Gradle-builds-Java-projects-2019-7-12-8-47-48-372_main" />
     <orderEntry type="library" name="Gradle: commons-collections:commons-collections:3.2" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.13-beta-3" level="project" />
+    <orderEntry type="library" name="Gradle: org.mockito:mockito-core:2.0.57-beta" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Gradle: net.bytebuddy:byte-buddy:1.3.16" level="project" />
+    <orderEntry type="library" name="Gradle: org.objenesis:objenesis:2.1" level="project" />
     <orderEntry type="module-library" scope="TEST">
       <library name="JUnit5.2">
         <CLASSES>
@@ -16,16 +22,6 @@
           <root url="jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar!/" />
           <root url="jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/" />
           <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.5.0/junit-platform-commons-1.5.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" scope="TEST">
-      <library name="testng">
-        <CLASSES>
-          <root url="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0-beta7/testng-7.0.0-beta7.jar!/" />
-          <root url="jar://$MAVEN_REPOSITORY$/com/beust/jcommander/1.72/jcommander-1.72.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
