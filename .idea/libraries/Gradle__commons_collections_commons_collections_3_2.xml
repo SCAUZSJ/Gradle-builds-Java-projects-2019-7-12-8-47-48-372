@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: commons-collections:commons-collections:3.2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Cannot resolve external dependency commons-collections:commons-collections:3.2 because no repositories are defined." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
